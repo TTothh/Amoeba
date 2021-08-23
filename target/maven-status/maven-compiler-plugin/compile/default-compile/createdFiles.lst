@@ -1,0 +1,8 @@
+model\VsPlayerModel.class
+model\StartModel.class
+Servlet\StartScreenServlet.class
+DAO\StepsDAO.class
+DAO\StepsDAOImpl.class
+Servlet\GameScreenServlet.class
+model\VsComputerModel.class
+Servlet\WinnerScreenServlet.class
